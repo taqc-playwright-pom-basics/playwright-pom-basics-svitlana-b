@@ -1,6 +1,6 @@
 export const PROJECT_NAME = 'Навчай українською';
 
-export const BASE_URL = 'http://localhost/';
+export const BASE_URL = 'http://speak-ukrainian.eastus2.cloudapp.azure.com/dev/';
 
 export const ROUTES = {
   home: '',
